@@ -7,4 +7,4 @@ pip install pytesseract
 pip install cv2
 ```
 
-![alt text](https://github.com/AIAML/SimpleOCR/test.png)
+![alt text](https://github.com/AIAML/SimpleOCR/raw/master/test.png)
