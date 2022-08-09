@@ -2,9 +2,9 @@
 
 In this Project a simple Ocr application is written. The sample image and result is avalaible as below.
 
-'''bash 
+```bash
+pip install pytesseract 
 
-pip install pytesseract
-'''
+```
 
-![alt text](http://url/to/img.png)
+![alt text](http://https://irtechnet.com/wp-content/uploads/2020/06/3-1.jpg)
