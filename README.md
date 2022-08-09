@@ -4,7 +4,7 @@ In this Project a simple Ocr application is written. The sample image and result
 
 ```bash
 pip install pytesseract 
-
+pip install cv2
 ```
 
 ![alt text](http://https://irtechnet.com/wp-content/uploads/2020/06/3-1.jpg)
