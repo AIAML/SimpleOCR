@@ -6,9 +6,7 @@ In this Project a simple Ocr application is written. The sample image and result
 pip install pytesseract 
 pip install cv2
 ```
-
 ![alt text](https://github.com/AIAML/SimpleOCR/raw/master/test.png)
-
 
 ## how pytesseract
 1. Install tesseract using windows installer available at: https://github.com/UB-Mannheim/tesseract/wiki
