@@ -18,4 +18,3 @@ pip install cv2
 4. Set the tesseract path in the script before calling image_to_string:
 
 pytesseract.pytesseract.tesseract_cmd = r'C:\Users\USER\AppData\Local\Tesseract-OCR\tesseract.exe'
-
