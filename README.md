@@ -1,5 +1,4 @@
 # SimpleOCR
-
 In this Project a simple OCR application is written by python. The sample image and result is avalaible as below.
 
 ```bash
