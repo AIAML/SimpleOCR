@@ -14,6 +14,7 @@ def print_hi(name):
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
 
+    
     pytesseract.pytesseract.tesseract_cmd = r'C:\Users\USER\AppData\Local\Tesseract-OCR\tesseract.exe'
     img = cv2.imread(r'C:\\test.png')
     text = pytesseract.image_to_string(img)
